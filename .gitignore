@@ -4,3 +4,4 @@ Sequence Models/week2/2_Emoji_v3a/data/glove.6B.50d.txt
 Sequence Models/week3/2_Trigger_word_detection_v2a/XY_dev/X_dev.npy
 Sequence Models/week3/2_Trigger_word_detection_v2a/XY_train/X.npy
 Sequence Models/week4/ungrade/1.Embedding_plus_Positional_encoding/glove/glove.6B.100d.txt
+Sequence Models/week4/ungrade/2_Transformer_application_Named_Entity_Recognition/model/tf_model.h5
