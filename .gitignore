@@ -20,3 +20,5 @@ Attention Models/week1/1.Neural Machine Translation/output_dir/model.opt_slots0.
 Attention Models/week1/1.Neural Machine Translation/output_dir/model.weights.npy.gz
 Attention Models/week1/1.Neural Machine Translation/model.pkl.gz
 Attention Models/week2/1.Transformer Summarizer/model.weights.npy.gz
+Attention Models/week3/1.Question Answering/model_squad.pkl.gz
+Attention Models/week3/1.Question Answering/model.pkl.gz
